@@ -2,7 +2,7 @@
 //  iCalcViewController.m
 //  iCalc
 //
-//  Created by ck on 14/10/2010.
+//  Created by javacom on 14/10/2010.
 //  Copyright javacom 2010. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  iCalculator.h
 //  iCalculator
 //
-//  Created by ck on 14/10/2010.
+//  Created by javacom on 14/10/2010.
 //  Copyright 2010 javacom. All rights reserved.
 //
 
